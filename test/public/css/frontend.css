@@ -1,0 +1,57 @@
+.navb{
+    background-color:#FBFCFC   ;
+}
+.txtclr{
+    color:#2E86C1;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+    font-size: 16px;
+    color: #FBFCFC    ;
+    display: block;
+    line-height: 22px;
+    padding: 10px 25px;
+}
+.dropdown-content li>a>i {
+    height: inherit;
+    line-height: inherit;
+    float: left;
+    margin: 0 24px 0 13px;
+    width: 24px;
+}
+.main{
+    margin-top: 3%;
+}
+.card{
+    background-color:#FBFCFC   ;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating) {
+    color: #2E86C1;
+    transition: color .3s ease;
+    text-transform: uppercase;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating):hover {
+    color: grey  ;
+}
+
+
+.dropdown-content {
+    background-color: #fff;
+    margin-top: 64px;
+    display: none;
+    min-width: 100px;
+    max-height: 650px;
+    overflow-y: auto;
+    opacity: 0;
+    position: absolute;
+    z-index: 999;
+    will-change: width, height;
+}
+ input[type=text]:focus:not([readonly]){
+     border-bottom: 1px solid #2E86C1;
+     box-shadow: 0 1px 0 0 #2E86C1;
+ }
+input[type=tel]:focus:not([readonly]){
+    border-bottom: 1px solid #2E86C1;
+    box-shadow: 0 1px 0 0 #2E86C1;
+}
