@@ -7,3 +7,7 @@
     border-radius: 0;
     will-change: bottom, opacity;
 }
+.time{
+    color: #2E86C1;
+    margin-top: 25px;
+}

@@ -1,0 +1,17 @@
+.list{
+    margin:80px;
+}
+.lstbtn{
+    background-color: #2E86C1;
+}
+
+.btn:hover, .btn-large:hover {
+    background-color:#5DADE2  ;
+}
+.btn:focus, .btn-large:focus, .btn-floating:focus {
+    background-color: #2E86C1;
+}
+.modal .modal-content {
+    padding: 24px;
+    height: 450px;
+}

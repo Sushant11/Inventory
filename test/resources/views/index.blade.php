@@ -78,7 +78,7 @@
                     </div>
                 </div>
                 <div class="modal-footer left">
-                    <a href="#!" class="modal-action modal-close waves-effect btn-flat">Log In</a>
+                    <a href="book" class="modal-action modal-close waves-effect btn-flat">Log In</a>
                 </div>
             </div>
         </div>

@@ -24,3 +24,16 @@ Route::get('inventory', function()
 {
     return view('index');
 });
+
+Route::get('list', function()
+{
+    return view('list');
+});
+Route::get('back', function()
+{
+    return view('guard');
+});
+Route::get('book', function()
+{
+    return view('book');
+});
